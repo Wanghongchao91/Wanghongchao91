@@ -26,8 +26,8 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wanghongchao91&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanghongchao91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wanghongchao91&show_icons=true&theme=monokai&hide_border=true&bg_color=2d2a2e&title_color=e2b714&icon_color=e2b714&text_color=fcfcfa" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanghongchao91&layout=compact&theme=monokai&hide_border=true&bg_color=2d2a2e&title_color=e2b714&text_color=fcfcfa" />
 </div>
 
 ---
@@ -35,7 +35,7 @@
 ### 📈 活动统计图
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanghongchao91&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=58A6FF&point=79C0FF&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanghongchao91&theme=monokai&hide_border=true&bg_color=2d2a2e&line=e2b714&point=a9dc76&area=true&color=fcfcfa" width="95%" />
 </div>
 
 ---
@@ -53,6 +53,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wanghongchao91&color=58a6ff&style=flat-square&label=访客" />
+  <img src="https://komarev.com/ghpvc/?username=Wanghongchao91&color=e2b714&style=flat-square&label=访客" />
 </div>
 </div>
