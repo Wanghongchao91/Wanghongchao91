@@ -16,18 +16,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logo=chains&logoColor=white)
-
----
-
-### 📌 精选项目
-
-| 项目 | 描述 | 语言 |
-|------|------|------|
-| [headroom-rs](https://github.com/Wanghongchao91/headroom-rs) | Rust 语义上下文压缩引擎 | Rust |
-| [volcano-dashboard](https://github.com/Wanghongchao91/volcano-dashboard) | 火山引擎用量监控仪表盘 | Python |
-| [snake-game](https://github.com/Wanghongchao91/snake-game) | 经典贪吃蛇游戏 | HTML/JS |
 
 ---
 
@@ -36,13 +24,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wanghongchao91&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)](https://github.com/Wanghongchao91)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanghongchao91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/Wanghongchao91)
-
----
-
-### 📈 活跃记录
-
-<!--RECENT_ACTIVITY-->
-<!--RECENT_ACTIVITY:end-->
 
 ---
 
